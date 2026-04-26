@@ -1,0 +1,26 @@
+/* 
+ * Styles to ensure the injected bar matches the OpenAI aesthetic 
+ */
+
+.time-progress-container {
+  /* Match the spacing and transition of the original UI */
+  transition: opacity 0.3s ease;
+}
+
+/* We can use the site's own tokens, but here are fallbacks or custom tweaks */
+.bg-blue-500 {
+  background-color: #3b82f6 !important;
+}
+
+.bg-green-500 {
+  background-color: #10b981 !important;
+}
+
+.rounded-full {
+  border-radius: 9999px !important;
+}
+
+/* Ensure the background of the bar matches the dark/light mode */
+.bg-token-main-surface-secondary {
+  background-color: rgba(155, 155, 155, 0.1) !important;
+}
