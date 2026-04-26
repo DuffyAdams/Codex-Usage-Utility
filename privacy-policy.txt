@@ -1,0 +1,19 @@
+Codex Usage Tracker - Privacy Policy
+
+1. Introduction
+This privacy policy explains how the Codex Usage Tracker ("the Extension") handles your data.
+
+2. Data Collection
+The Extension does not collect, store, or transmit any personally identifiable information, browsing history, or user data. 
+
+3. How it Works
+The Extension operates entirely locally within your browser. It reads your usage reset timestamps from the ChatGPT analytics page solely to calculate and display a visual progress bar. This information is processed in real-time and never leaves your device.
+
+4. Data Storage
+The Extension uses the "storage" permission only to save your UI preferences (such as your progress bar settings) locally on your machine. This data is not shared with the developer or any third parties.
+
+5. Third Parties
+The Extension does not share any data with third-party services, analytics providers, or advertisers.
+
+6. Changes
+Any future changes to this policy will be posted here and noted in the Extension's version update logs.
